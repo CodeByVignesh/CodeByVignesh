@@ -21,12 +21,34 @@
 <a target="_blank" href="https://www.instagram.com/_______v________k" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByVignesh&show_icons=true&locale=en" alt="CodeByVignesh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByVignesh&" alt="CodeByVignesh" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByVignesh&show_icons=true&locale=en&layout=compact" alt="CodeByVignesh" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeByVignesh" alt="CodeByVignesh" /></a></p>
+<h2>📊 GitHub Stats</h2>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByVignesh&show_icons=true&locale=en" alt="CodeByVignesh" />
+</p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByVignesh&" alt="CodeByVignesh" />
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByVignesh&show_icons=true&locale=en&layout=compact" alt="CodeByVignesh" />
+</p>
+<p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeByVignesh" alt="CodeByVignesh" /></a>
+</p>
 
 <h2>🏅 Certifications</h2>
 <ul>
   <li><a href="https://www.hackerrank.com/certificates/iframe/1440bf0be03c" target="_blank">Problem Solving (Basic) Certificate - HackerRank</a></li>
 </ul>
+
+<h2>🎖️ HackerRank Badges</h2>
+<p>
+  <a href="https://www.hackerrank.com/certificates/iframe/1440bf0be03c" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vk_17p151" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python Badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vk_17p151" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Badge" />
+  </a>
+</p>
