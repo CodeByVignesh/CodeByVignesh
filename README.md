@@ -31,6 +31,3 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByVignesh&show_icons=true&locale=en&layout=compact" alt="CodeByVignesh" />
 </p>
-<p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeByVignesh" alt="CodeByVignesh" /></a>
-</p>
