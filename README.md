@@ -32,3 +32,5 @@
 
 
 </a></p>
+
+<a href="https://app.daily.dev/vigneshkumarselvaraj"><img src="https://api.daily.dev/devcards/v2/83wTy9wG1lQo4GA9PSAyK.png?r=8i8&type=default" width="356" alt="Vigneshkumar Selvaraj's Dev Card"/></a>
